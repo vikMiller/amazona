@@ -96,3 +96,7 @@ A small replica of Amazon with working Frontend and Backend using MERN
     1. handle submit action
     2. save token in store and local storage
     3. show user name in header
+24. Create Shipping Screen
+    1. create form inputs
+    2. handle save shipping address
+    3. add checkout wizard bar
