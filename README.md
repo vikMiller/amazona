@@ -148,3 +148,7 @@ A small replica of Amazon with working Frontend and Backend using MERN
     1. define protected route component
     2. define admin route component
     3. add menu for admin in header
+37. Create Dashboard Screen
+    1. create dashboard ui
+    2. implement backend api
+    3. connect ui to backend
