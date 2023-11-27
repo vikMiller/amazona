@@ -140,3 +140,7 @@ A small replica of Amazon with working Frontend and Backend using MERN
 34. Add Sidebar and Search Box
     1. add sidebar
     2. add search box
+35. Create Search Screen
+    1. show filters
+    2. create api for searching products
+    3. display results
