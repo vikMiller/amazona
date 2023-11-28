@@ -164,3 +164,6 @@ A small replica of Amazon with working Frontend and Backend using MERN
     1. create edit button
     2. create edit product ui
     3. dispaly product info in the input boxes
+41. Implement Update Product
+    1. create edit product backend api
+    2. handle update click
