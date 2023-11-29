@@ -198,3 +198,7 @@ A small replica of Amazon with working Frontend and Backend using MERN
     3. dispaly product info in the input boxes
     4. implement backend api
     5. handle edit click
+49. Delete User
+    1. add delete button
+    2. handle click action
+    3. implement backen api for delete
