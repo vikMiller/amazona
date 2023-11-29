@@ -184,3 +184,7 @@ A small replica of Amazon with working Frontend and Backend using MERN
     1. add deliver button
     2. handle click action
     3. implement backen api for deliver
+46. Delete Order
+    1. add delete button
+    2. handle click action
+    3. implement backen api for delete
