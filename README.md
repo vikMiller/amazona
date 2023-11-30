@@ -202,3 +202,7 @@ A small replica of Amazon with working Frontend and Backend using MERN
     1. add delete button
     2. handle click action
     3. implement backen api for delete
+50. Review Orders
+    1. create submit review form
+    2. handle submit
+    3. implement backend api for review
